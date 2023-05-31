@@ -1,5 +1,7 @@
 from math import sqrt
 
+
+
 def main():
     
     n1 = read_num()
